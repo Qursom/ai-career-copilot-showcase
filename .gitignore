@@ -1,0 +1,42 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+.next/
+out/
+
+# Env files (never commit secrets; blank .env.example templates are allowed)
+.env
+.env.local
+.env.*
+.env.example
+.env.production.example
+!backend/.env.example
+!frontend/.env.example
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Test coverage
+coverage/
+
+# Temporary resume uploads
+backend/uploads/
+
+# Firebase service-account keys (never commit)
+*firebase-adminsdk*.json
+
+# Private docs (kept locally, not in repo)
+PORTFOLIO.md
+SYSTEM_FLOW.md
+docs/
