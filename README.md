@@ -308,7 +308,7 @@ screenshots/        Images used in this README
 
 ## License
 
-[MIT](LICENSE). Feel free to learn from it, fork it, and build on it.
+[MIT](LICENSE). Feel free to learn from it, fork it, and build on it.If this project helps you, please give it a ⭐
 
 ## Contact
 
